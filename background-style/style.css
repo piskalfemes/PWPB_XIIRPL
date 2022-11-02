@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+.back-img{
+    background-image: url(../potonya.jpg);
+    width: 500px;
+    height: 500px;
+}
+
+.posisi{
+    background-image: url(../potonya.jpg);
+    width: 2000px;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
